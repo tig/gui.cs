@@ -1,7 +1,9 @@
 {
   "profiles": {
     "UICatalog": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "XtermSharpTest",
+      "workingDirectory": "C:\\Users\\tig\\s\\xterm.js\\fixtures\\escape_sequence_files"
     }
   }
 }
